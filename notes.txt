@@ -8,4 +8,7 @@ git remote add heroku https://mighty-wildwood-81230.herokuapp.com/
 
 git push heroku master
 
-Redeployment
+Redeployment-----------------------------------
+git add .
+git commit -m "comment about commit"
+git push heroku master

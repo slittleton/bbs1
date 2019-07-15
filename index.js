@@ -9,4 +9,8 @@ const PORT = process.env.PORT || 5000;
 app.use('/api/users', users);
 app.use('/api/topics', topics)
 
+app.get('/', (req, res)=> {
+  res.send('HOME')
+})
+
 app.listen(PORT, console.log(`Listening on port ${PORT}`))

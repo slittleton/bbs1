@@ -1,0 +1,11 @@
+heroku git repository
+
+https://mighty-wildwood-81230.herokuapp.com/ 
+
+
+git remote add heroku https://mighty-wildwood-81230.herokuapp.com/
+
+
+git push heroku master
+
+Redeployment

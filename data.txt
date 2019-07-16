@@ -1,0 +1,16 @@
+
+{
+	"name": "first user",
+	"email": "first@a.com",
+	"password": "12345"
+}
+{
+	"name": "second user",
+	"email": "second@email.com",
+ "password": "12345"
+}
+{
+	"name": "third user",
+	"email": "third@email.com",
+ "password": "asdfg"
+}
